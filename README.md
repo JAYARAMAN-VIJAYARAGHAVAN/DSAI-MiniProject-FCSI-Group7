@@ -50,6 +50,7 @@ This project successfully predicts the risk of lung cancer using logistic regres
 Contributions:
 
 Vijay: Data preparation, exploratory analysis
+
 Avneesh: Model Training, Slides
 
 References:
