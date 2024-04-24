@@ -46,10 +46,14 @@ Project Workflow:
 •	Visualize the confusion matrix using Seaborn's heatmap() method.
 Conclusion:
 This project successfully predicts the risk of lung cancer using logistic regression. By employing various attributes related to health, behaviours, and demographics, the model provides a valuable tool for identifying individuals at risk of lung cancer. The project demonstrates the implementation of a binary classification problem using a logistic regression algorithm. Through proper data preprocessing, feature selection, model development, and evaluation, it provides insights into building a predictive model for lung cancer risk assessment. Multiple models were made and the best one out of them was chosen.
+
 Contributions:
+
 Vijay: Data preparation, exploratory analysis
 Avneesh: Model Training, Slides
+
 References:
+
 M2ExploratoryAnalysis.ipnyb from NTUlearn
 https://www.cancer.org/cancer/types/lung-cancer/detection-diagnosis-staging/detection.html#:~:text=If%20lung%20cancer%20is%20found,have%20any%20signs%20or%20symptoms
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7950268/
